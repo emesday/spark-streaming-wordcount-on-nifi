@@ -31,3 +31,7 @@ $ /path/to/nifi/bin/nifi.sh start
 ```
 $ spark-submit target/scala-2.10/spark-streaming-wordcount-on-nifi-assembly-1.0.jar
 ```
+
+# references
+- https://blogs.apache.org/nifi/entry/stream_processing_nifi_and_spark
+- http://spark.apache.org/docs/latest/streaming-programming-guide.html
